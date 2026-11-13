@@ -45,14 +45,14 @@ fotograma, tipo_objeto, confianza, identificador_tracking, x1, y1, x2, y2, matr�
 
 ## Comparativa de OCRs
 
-Para la comparativa, los OCRs escogidos fueron Tesseract y Unlimited-COR de Baidu.
+Para la comparativa, los OCRs escogidos fueron Tesseract y Unlimited-OCR (v1) de Baidu.
 
 Para facilitar la tarea, se creo un nuevo dataset con los recortes de las matriculas, haciendo una selección de aquellas que resultaran legibles y anotando su texto en un fichero CSV. Este proceso fue automatizado por un modelo de IA, con el resultado revisado manualmente.
 
 Los datasets fueron procesados utilizando el fichero comparativa_ocr.py. Este fichero procesa las imagenes de las matriculas y genera dos ficheros CSV: resultados.csv y resume.csv.
 
 El fichero resultados.csv incluye la siguiente información:
-- modelo: Modelo que realizo la predicción (Tesseract o Unlimited-COR)
+- modelo: Modelo que realizo la predicción (Tesseract o Unlimited-OCR)
 - file: Imágen de la matricula
 - referencia: Matricula real
 - predicción: Predicción realizada por el modelo con post-procesamiento
@@ -68,7 +68,7 @@ El fichero resultados.csv incluye la siguiente información:
 - quality: Calidad de la imagen de la matricula (alta o media).
 
 El fichero resumen.csv incluye la siguiente información:
-- modelo: Modelo que realizo la predicción (Tesseract o Unlimited-COR)
+- modelo: Modelo que realizo la predicción (Tesseract o Unlimited-OCR)
 - subconjunto: Subconjunto en base a la calidad de las imagenes (Todas, solo alta o solo media)
 - n_imagenes: Nº de imagenes del subconjunto.
 - exact_match: Proporción de matrículas leídas enteras y exactamente bien.
@@ -78,7 +78,7 @@ El fichero resumen.csv incluye la siguiente información:
 - salidas_vacias: Proporción de imágenes en las que el modelo no devolvió ningún carácter válido después del postprocesado.
 - t_media_ms: La media de los tiempos, en milisegundos.
 - t_mediana_ms: La mediana de los tiempos, en milisegundos.
-- t_p95_ms: El percentil 95 de los tiempos.
+- t_p95_ms: El percentil 95 de los tiempos, o peor caso habitual. El 95% de las imágenes tarda menos que esto.
 - t_std_ms: La desviación típica de los tiempos.
 - t_min_ms: El tiempo más rápido.
 - t_max_ms: El tiempo más lento.
@@ -90,7 +90,7 @@ El pre-procesado realizado difirio al realizado durante el procesamiento del vid
 
 La configuración de Tesseract también difirio, se utilizo con el flag --psm 6 el lugar de --psm 11 y un flag para aplicar una lista blanca de caracteres.
 
-Para la configuración de Unlimited-COR se siguieron las recomendaciones del README[^2]. Se into experimentar con el prompt, con "<image>car plate parsing." en lugar de "<image>document parsing.", pero los resultaros fueron inferiores. El nº máximo de tokens del resultado se limito a 128.
+Para la configuración de Unlimited-OCR se siguieron las recomendaciones del README[^2]. Se into experimentar con el prompt, con "<image>car plate parsing." en lugar de "<image>document parsing.", pero los resultaros fueron inferiores. El nº máximo de tokens del resultado se limito a 128.
 
 ### Resumen de los resultados
 
@@ -121,13 +121,15 @@ Que saco: BEGINARRAYLTEXTAP12THEREFORE053ENDARRAY
 
 ![title](graficas/04_acierto_por_tipo.png)
 
-### Tiempo de inferencia por imagen
+En las gráficas se observa que Tesseract obtuvo la mayor parte de sus aciertos con matriculas de India. Unlimite-OCR, en cambio, excelio con las matriculas rusas, logrando acertar casi el 60%. Aunque se ha incluido en el gráfico, el porcentaje en otros no es significativo al solo haver dos casos. Respecto a las matriculas de dos lineas, Unlimite-OCR logro un porcentaje de aciertos solo ligeramente inferior a con un linea, acertando en más de 1/4 de ellas. Tesseract logro acertar unicamente una de estas.
+
+### Tiempo de inferencia por imagen y Compromiso velocidad / acierto
 
 ![title](graficas/05_tiempo_inferencia.png)
 
-### Compromiso velocidad / acierto
-
 ![title](graficas/06_velocidad_vs_acierto.png)
+
+El primera gráfica, podemos ver que en la mediana de los casos Unlimite-OCR es alrededor de 9 veces más lento que Tesseract y en el peor caso habitual (p95) 12 veces más lento. Además, en Unlimite-OCR se observan más casos extremos, llegando a superar en alguno los 1000 ms. A pesar de esto, como se observa en la segunda gráfica, el porcentaje de acierto es solo 6 veces superior a Tesseract.
 
 ## Autor
 Javier A. Alfonso Quintana
