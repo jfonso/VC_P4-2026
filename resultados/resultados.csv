@@ -1,0 +1,351 @@
+modelo,file,referencia,prediccion,salida_cruda,acierto_exacto,distancia_edicion,cer,salida_vacia,t_inferencia_ms,t_preproceso_ms,country,lines,quality
+tesseract,plate_000.png,Y018YP750,,,0,9,1.0,1,53.404,1.654,RU,1,alta
+tesseract,plate_001.png,P900YH77,900HZ,900HZ\n,0,4,0.5,0,55.877,0.108,RU,1,alta
+tesseract,plate_002.png,WP54KKV,WOSTRRY,WOSTRRY\n,0,6,0.8571,0,55.951,0.086,UK,1,alta
+tesseract,plate_003.png,YK60PKJ,1KEOPKJ,1KEOPKJ\n,0,3,0.4286,0,54.797,0.069,UK,1,alta
+tesseract,plate_004.png,LX59VEP,,,0,7,1.0,1,53.114,0.074,UK,1,alta
+tesseract,plate_005.png,LC59FEM,C4,C4\n,0,6,0.8571,0,59.358,0.096,UK,1,alta
+tesseract,plate_006.png,NA54KGJ,NAS4KGJ,NAS4KGJ\n,0,1,0.1429,0,55.416,0.085,UK,1,alta
+tesseract,plate_007.png,AK64DMV,,,0,7,1.0,1,52.219,0.058,UK,1,alta
+tesseract,plate_008.png,GX15OGJ,Q,Q\n,0,7,1.0,0,54.994,0.084,UK,1,alta
+tesseract,plate_009.png,P900YH77,F9007H74,F9007H74\n,0,3,0.375,0,55.181,0.061,RU,1,alta
+tesseract,plate_010.png,Y018YP750,,,0,9,1.0,1,52.749,0.076,RU,1,alta
+tesseract,plate_011.png,RJ19GB9320,,,0,10,1.0,1,54.37,0.161,IN,2,alta
+tesseract,plate_012.png,UK08CA3705,UK08C4379,UK08\nC4379\n,0,3,0.3,0,57.419,0.128,IN,2,alta
+tesseract,plate_013.png,RJ25GA0509,RPSB0,RPS\nB0\n,0,8,0.8,0,63.069,0.076,IN,2,alta
+tesseract,plate_014.png,AS01KC6058,6058,6058\n,0,6,0.6,0,56.38,0.092,IN,2,alta
+tesseract,plate_015.png,AP102TC885,AP102TC885,AP102TC885\n,1,0,0.0,0,54.897,0.076,IN,1,alta
+tesseract,plate_016.png,DL1N7100,,,0,8,1.0,1,53.261,0.089,IN,1,alta
+tesseract,plate_017.png,DL8CT3000,OLBCT3009,OLBCT3009\n,0,3,0.3333,0,55.512,0.075,IN,1,alta
+tesseract,plate_018.png,GA01Z6970,7GA0870,7GA08\n70\n,0,5,0.5556,0,63.371,0.156,IN,2,alta
+tesseract,plate_019.png,WB390243,WB390243,WB39\n0243\n,1,0,0.0,0,57.852,0.141,IN,2,alta
+tesseract,plate_020.png,MH03BW3561,,,0,10,1.0,1,52.041,0.055,IN,1,media
+tesseract,plate_021.png,HR38V2023,L,L\n,0,9,1.0,0,56.965,0.066,IN,1,alta
+tesseract,plate_022.png,UP16AE5575,UP16AE5575,UP16AE5575\n,1,0,0.0,0,54.764,0.049,IN,1,alta
+tesseract,plate_023.png,WB04C9149,4,4\n,0,8,0.8889,0,55.227,0.147,IN,2,alta
+tesseract,plate_024.png,HR26DA0734,HR2608073L8,HR2608073L8\n,0,4,0.4,0,55.263,0.054,IN,1,media
+tesseract,plate_025.png,DL3CAZ5503,PYDL3CAZSS03,PY DL3CAZSS03\n,0,4,0.4,0,55.035,0.05,IN,1,alta
+tesseract,plate_026.png,DL8CAE9134,FL9134,FL9134\n,0,5,0.5,0,56.784,0.053,IN,1,alta
+tesseract,plate_027.png,HR26DG7793,HR26067793,HR26067793\n,0,2,0.2,0,55.617,0.068,IN,1,alta
+tesseract,plate_028.png,HR55AG7402,WRSSAG7LOZ,WRSSAG7LOZ\n,0,6,0.6,0,55.027,0.055,IN,1,media
+tesseract,plate_029.png,DL3CCS3624,OLICCS3626,OLICCS3626\n,0,3,0.3,0,55.27,0.055,IN,1,alta
+tesseract,plate_030.png,HR26DV6946,P,P\n,0,10,1.0,0,57.065,0.139,IN,2,alta
+tesseract,plate_031.png,HR26EA7905,HR26EA7905,HR26EA7905\n,1,0,0.0,0,56.24,0.051,IN,1,alta
+tesseract,plate_032.png,HR26DV6946,,,0,10,1.0,1,56.944,0.106,IN,2,alta
+tesseract,plate_033.png,HP31D7888,STHPTTC,STHPTTC\n,0,9,1.0,0,58.422,0.063,IN,1,alta
+tesseract,plate_034.png,O327HE799,,,0,9,1.0,1,54.1,0.067,RU,1,alta
+tesseract,plate_035.png,B521EH777,EU,EU\n,0,8,0.8889,0,56.037,0.066,RU,1,alta
+tesseract,plate_036.png,C605HC197,COSHCRE,COSHCRE\n,0,6,0.6667,0,55.83,0.06,RU,1,alta
+tesseract,plate_037.png,A527YB199,,,0,9,1.0,1,57.111,0.075,RU,1,alta
+tesseract,plate_038.png,P730XT750,,,0,9,1.0,1,53.083,0.058,RU,1,alta
+tesseract,plate_039.png,C605HC197,,,0,9,1.0,1,53.627,0.075,RU,1,alta
+tesseract,plate_040.png,P730XT750,,,0,9,1.0,1,52.858,0.077,RU,1,alta
+tesseract,plate_041.png,A527YB199,,,0,9,1.0,1,52.641,0.07,RU,1,alta
+tesseract,plate_042.png,YG19YRU,,,0,7,1.0,1,52.584,0.054,UK,1,alta
+tesseract,plate_043.png,YK60PKJ,WPK,WPK\n,0,5,0.7143,0,59.831,0.049,UK,1,alta
+tesseract,plate_044.png,BJ20ATN,,,0,7,1.0,1,52.58,0.137,UK,1,alta
+tesseract,plate_045.png,LX59VEP,,,0,7,1.0,1,56.271,0.068,UK,1,alta
+tesseract,plate_046.png,LC59FEM,,,0,7,1.0,1,56.636,0.061,UK,1,alta
+tesseract,plate_047.png,NJ66XYT,,,0,7,1.0,1,52.148,0.098,UK,1,alta
+tesseract,plate_048.png,NJ66XYT,,,0,7,1.0,1,55.55,0.106,UK,1,alta
+tesseract,plate_049.png,NJ66XYT,,,0,7,1.0,1,52.612,0.07,UK,1,alta
+tesseract,plate_050.png,NA54KGJ,NAS4KEJ,NAS4KEJ\n,0,2,0.2857,0,56.081,0.081,UK,1,alta
+tesseract,plate_051.png,AK64DMV,OTDAV7,OT DAV 7\n,0,6,0.8571,0,56.552,0.056,UK,1,alta
+tesseract,plate_052.png,BG65USJ,5BG65USJ,5BG65USJ\n,0,1,0.1429,0,54.662,0.086,UK,1,alta
+tesseract,plate_053.png,BG65USJ,BC6SUSJ,BC6SUSJ\n,0,2,0.2857,0,55.467,0.092,UK,1,alta
+tesseract,plate_054.png,AV08HVF,,,0,7,1.0,1,52.078,0.079,UK,1,alta
+tesseract,plate_055.png,AV08HVF,,,0,7,1.0,1,52.723,0.064,UK,1,alta
+tesseract,plate_056.png,EY61NBG,,,0,7,1.0,1,53.246,0.071,UK,1,alta
+tesseract,plate_057.png,EY61NBG,,,0,7,1.0,1,52.638,0.076,UK,1,alta
+tesseract,plate_058.png,EY61NBG,EY6INBG,EY6INBG\n,0,1,0.1429,0,55.277,0.08,UK,1,alta
+tesseract,plate_059.png,FJ14ZHY,FJI4ZHY,FJI4ZHY\n,0,1,0.1429,0,54.077,0.085,UK,1,alta
+tesseract,plate_060.png,WR02FKD,PWRO2FKD,PWRO2FKD\n,0,2,0.2857,0,56.696,0.068,UK,1,media
+tesseract,plate_061.png,FJ14ZHY,FJI4ZHY,FJI4ZHY\n,0,1,0.1429,0,54.875,0.082,UK,1,alta
+tesseract,plate_062.png,WR02FKD,WHO2FRO,WHO2FRO\n,0,4,0.5714,0,57.349,0.086,UK,1,media
+tesseract,plate_063.png,WR02FKD,WRO2FKO,WRO2FKO\n,0,2,0.2857,0,55.0,0.092,UK,1,media
+tesseract,plate_064.png,KH05ZZK,,,0,7,1.0,1,52.881,0.076,UK,1,media
+tesseract,plate_065.png,KH05ZZK,KHOS22K,KHOS22K\n,0,4,0.5714,0,59.654,0.065,UK,1,media
+tesseract,plate_066.png,AP05JEO,LAPOSJEO,LAPOSJEO\n,0,3,0.4286,0,56.136,0.068,UK,1,alta
+tesseract,plate_067.png,KH05ZZK,,,0,7,1.0,1,53.239,0.06,UK,1,media
+tesseract,plate_068.png,AP05JEO,LAPOSJEO,LAPOSJEO\n,0,3,0.4286,0,57.979,0.062,UK,1,alta
+tesseract,plate_069.png,AP05JEO,LAPOSJEQ,LAPOSJEQ\n,0,4,0.5714,0,55.791,0.095,UK,1,alta
+tesseract,plate_070.png,GX15OGJ,IGXISOGJ,IGXISOGJ\n,0,3,0.4286,0,55.78,0.065,UK,1,alta
+tesseract,plate_071.png,GX15OGJ,RG,RG\n,0,6,0.8571,0,55.924,0.095,UK,1,alta
+tesseract,plate_072.png,MW51VSU,,,0,7,1.0,1,53.942,0.063,UK,1,media
+tesseract,plate_073.png,MW51VSU,,,0,7,1.0,1,56.497,0.064,UK,1,media
+tesseract,plate_074.png,SN61BJV,,,0,7,1.0,1,52.568,0.055,UK,1,alta
+tesseract,plate_075.png,FUY68U,,,0,6,1.0,1,53.339,0.072,otro,1,alta
+tesseract,plate_076.png,OR09G7541,ORO9GI544,ORO9G\nI544\n,0,3,0.3333,0,58.44,0.226,IN,2,alta
+tesseract,plate_077.png,HR743571,HR7435714,HR74 3571 4\n,0,1,0.125,0,56.657,0.071,IN,1,alta
+tesseract,plate_078.png,RJ14GJ4976,RIM4145976,RIM4\n145976\n,0,5,0.5,0,62.576,0.091,IN,2,alta
+tesseract,plate_079.png,AP26TA5005,AVYAP264,AVYAP264\n,0,8,0.8,0,65.107,0.193,IN,2,alta
+tesseract,plate_080.png,AP21TT9279,AP2219279,AP22\n19279\n,0,3,0.3,0,62.548,0.125,IN,2,alta
+tesseract,plate_081.png,AP02W2516,SSTE,SS\nTE\n,0,9,1.0,0,66.996,0.081,IN,2,alta
+tesseract,plate_082.png,AP21X0460,IX04607,I\nX04607\n,0,5,0.5556,0,68.909,0.105,IN,2,alta
+tesseract,plate_083.png,HR63C2419,HRES,HRES\n,0,7,0.7778,0,61.546,0.321,IN,2,alta
+tesseract,plate_084.png,MH04FH7654,,,0,10,1.0,1,55.143,0.093,IN,1,alta
+tesseract,plate_085.png,MH04FB8220,,,0,10,1.0,1,55.238,0.127,IN,1,alta
+tesseract,plate_086.png,MH06AU6836,CHTG630,CHTG630\n,0,7,0.7,0,61.927,0.08,IN,1,alta
+tesseract,plate_087.png,HR26DK8593,HR26DK8593,HR26DK8593\n,1,0,0.0,0,57.436,0.056,IN,1,alta
+tesseract,plate_088.png,MH14JA9346,1H14J49346,1H14J49346\n,0,2,0.2,0,56.741,0.069,IN,1,alta
+tesseract,plate_089.png,7254TAU,37254TAUJ,37254TAUJ\n,0,2,0.2857,0,60.282,0.055,otro,1,alta
+tesseract,plate_090.png,KL15A731,KL15A731,KL15A731\n,1,0,0.0,0,56.087,0.105,IN,1,alta
+tesseract,plate_091.png,AS03M9149,ASO3N9149,ASO3N9149\n,0,2,0.2222,0,56.285,0.071,IN,1,alta
+tesseract,plate_092.png,WB04E7228,,,0,9,1.0,1,56.804,0.104,IN,1,alta
+tesseract,plate_093.png,TN21N1209,TN24I1209,TN24\nI1209\n,0,2,0.2222,0,59.917,0.188,IN,2,alta
+tesseract,plate_094.png,RJ14PA7033,FPA7033,F PA7033\n,0,4,0.4,0,57.944,0.078,IN,1,alta
+tesseract,plate_095.png,RJ14PA6060,RJHPAGOGO,RJHPAGOGO\n,0,6,0.6,0,61.505,0.055,IN,1,alta
+tesseract,plate_096.png,RJ149C401,R49C40H,R49C40 H\n,0,3,0.3333,0,62.121,0.054,IN,1,alta
+tesseract,plate_097.png,AP11Z2053,PZ,PZ\n,0,7,0.7778,0,56.543,0.137,IN,2,alta
+tesseract,plate_098.png,PB65AR0294,,,0,10,1.0,1,55.382,0.08,IN,1,alta
+tesseract,plate_099.png,DL6SF1284,DL6S,DL6S\n,0,5,0.5556,0,56.255,0.174,IN,2,alta
+tesseract,plate_100.png,DL6SAB2153,,,0,10,1.0,1,57.847,0.07,IN,1,alta
+tesseract,plate_101.png,AP11Z2061,2061,2061\n,0,5,0.5556,0,55.436,0.086,IN,2,alta
+tesseract,plate_102.png,BK63XPV,BBK63XPV,BBK63 XPV\n,0,1,0.1429,0,56.358,0.059,UK,1,alta
+tesseract,plate_103.png,PB30K0234,PB,PB\n,0,7,0.7778,0,56.781,0.101,IN,2,alta
+tesseract,plate_104.png,BK63XPV,ABKG3XPV,ABKG3XPV\n,0,2,0.2857,0,60.511,0.073,UK,1,alta
+tesseract,plate_105.png,AP11Z4234,42345,42345\n,0,6,0.6667,0,59.625,0.124,IN,2,alta
+tesseract,plate_106.png,A330TM750,33075,33075\n,0,4,0.4444,0,62.15,0.09,RU,1,alta
+tesseract,plate_107.png,E500AE21,E500AE24,E500AE24\n,0,1,0.125,0,56.273,0.069,RU,1,alta
+tesseract,plate_108.png,PK74077,,,0,7,1.0,1,57.191,0.066,RU,1,alta
+tesseract,plate_109.png,PK74077,740,740\n,0,4,0.5714,0,58.205,0.054,RU,1,alta
+tesseract,plate_110.png,H850PO799,,,0,9,1.0,1,54.714,0.06,RU,1,alta
+tesseract,plate_111.png,X892TP799,89271799,89271799\n,0,3,0.3333,0,56.463,0.073,RU,1,alta
+tesseract,plate_112.png,Y099AO799,099001799,099001799\n,0,4,0.4444,0,55.306,0.056,RU,1,alta
+tesseract,plate_113.png,HR30K2344,,,0,9,1.0,1,52.917,0.054,IN,1,alta
+tesseract,plate_114.png,HR26AP6365,HR26AP636S,HR 26AP636S\n,0,1,0.1,0,58.53,0.054,IN,1,media
+tesseract,plate_115.png,HR26EJ8386,HROEELAVAE,HROEELAVAE\n,0,7,0.7,0,62.75,0.077,IN,1,media
+tesseract,plate_116.png,HR51BH5209,WRS1BHS209,WRS1BHS209\n,0,3,0.3,0,56.27,0.055,IN,1,alta
+tesseract,plate_117.png,HR30K2344,FHRI0K7344,FHRI0K7344\n,0,3,0.3333,0,57.139,0.074,IN,1,alta
+tesseract,plate_118.png,HR26DG7793,HR26067793,HR26067793\n,0,2,0.2,0,55.63,0.067,IN,1,alta
+tesseract,plate_119.png,HR26CJ0999,HR7GC20933,HR7GC20933\n,0,5,0.5,0,60.26,0.059,IN,1,media
+tesseract,plate_120.png,HR26CJ0999,,,0,10,1.0,1,59.134,0.089,IN,1,media
+tesseract,plate_121.png,HR30K2344,,,0,9,1.0,1,52.999,0.057,IN,1,alta
+tesseract,plate_122.png,HR26DG7793,HR26D67793,HR26D67793\n,0,1,0.1,0,55.827,0.092,IN,1,alta
+tesseract,plate_123.png,DL7SCK4296,,,0,10,1.0,1,54.843,0.112,IN,2,alta
+tesseract,plate_124.png,HR26ED2186,7GE2,7GE2\n,0,8,0.8,0,59.373,0.094,IN,2,alta
+tesseract,plate_125.png,UP16AN1098,UPIGANSOSA,UPIGANSOSA\n,0,6,0.6,0,56.335,0.055,IN,1,alta
+tesseract,plate_126.png,UP16AN1098,UPIGAMIOSA,UPIGAMIOSA\n,0,7,0.7,0,59.351,0.05,IN,1,alta
+tesseract,plate_127.png,HR989995,HR989995,HR989995\n,1,0,0.0,0,55.334,0.054,IN,1,media
+tesseract,plate_128.png,DL7SCK4296,OLJSCKL296,OLJSC\nKL296\n,0,3,0.3,0,57.319,0.116,IN,2,alta
+tesseract,plate_129.png,HR55AG7402,PSWRS5AG7602,PS\nWRS5AG7602\n,0,5,0.5,0,60.822,0.062,IN,1,media
+tesseract,plate_130.png,HR26DF9390,HRIEDF9290,HRIEDF9290\n,0,3,0.3,0,60.571,0.068,IN,1,alta
+tesseract,plate_131.png,HR26DF9390,,,0,10,1.0,1,55.88,0.062,IN,1,alta
+tesseract,plate_132.png,HR26DF9390,,,0,10,1.0,1,56.108,0.059,IN,1,media
+tesseract,plate_133.png,DL9CAG6084,,,0,10,1.0,1,55.421,0.077,IN,1,media
+tesseract,plate_134.png,HR26BW3828,ANWI8ZE,ANWI8ZE\n,0,8,0.8,0,59.244,0.074,IN,1,alta
+tesseract,plate_135.png,DL9CAS6906,OLSCASES06,OLSCASES06\n,0,4,0.4,0,57.921,0.066,IN,1,alta
+tesseract,plate_136.png,HR26BW3828,WK6GWI828,WK6GWI828\n,0,5,0.5,0,59.812,0.118,IN,1,alta
+tesseract,plate_137.png,DL3CCS3624,OL3CCS3624,OL3CCS3624\n,0,1,0.1,0,57.978,0.062,IN,1,alta
+tesseract,plate_138.png,HR26EA7905,HR26EA7905,HR26EA7905\n,1,0,0.0,0,57.872,0.065,IN,1,alta
+tesseract,plate_139.png,HR58A0826,TF26,TF\n26\n,0,7,0.7778,0,65.542,0.063,IN,1,alta
+tesseract,plate_140.png,HR55U8487,TARSS8287,TARSS\n8287\n,0,6,0.6667,0,60.184,0.129,IN,2,media
+tesseract,plate_141.png,WP54KKV,WPSQKKV,WPSQKKV\n,0,2,0.2857,0,56.49,0.063,UK,1,alta
+tesseract,plate_142.png,BJ20ATN,,,0,7,1.0,1,53.424,0.069,UK,1,alta
+tesseract,plate_143.png,BJ20ATN,,,0,7,1.0,1,53.636,0.091,UK,1,alta
+tesseract,plate_144.png,LC59FEM,,,0,7,1.0,1,53.034,0.067,UK,1,alta
+tesseract,plate_145.png,BG65USJ,BG65USJ,BG65USJ\n,1,0,0.0,0,54.573,0.077,UK,1,alta
+tesseract,plate_146.png,NA54KGJ,NAS4KGJ,NAS4KGJ\n,0,1,0.1429,0,56.013,0.103,UK,1,alta
+tesseract,plate_147.png,AV08HVF,BE,BE\n,0,7,1.0,0,61.87,0.084,UK,1,alta
+tesseract,plate_148.png,NA13NRU,BNAISNRU,BNAISNRU\n,0,3,0.4286,0,55.513,0.076,UK,1,alta
+tesseract,plate_149.png,MW51VSU,,,0,7,1.0,1,53.675,0.068,UK,1,media
+tesseract,plate_150.png,SN61BJV,E,E\n,0,7,1.0,0,55.594,0.064,UK,1,alta
+tesseract,plate_151.png,AP16TD4439,L,L\n,0,10,1.0,0,58.149,0.142,IN,2,alta
+tesseract,plate_152.png,PB12E9658,,,0,9,1.0,1,56.672,0.175,IN,2,alta
+tesseract,plate_153.png,KA02EV8795,KA027EV8795,KA027\nEV8795\n,0,1,0.1,0,59.824,0.087,IN,2,alta
+tesseract,plate_154.png,KA03B2364,32364,32364\n,0,4,0.4444,0,61.303,0.121,IN,2,alta
+tesseract,plate_155.png,HR26DX4821,ANHR26DX4821,AN\nHR26DX4821\n,0,2,0.2,0,59.43,0.102,IN,1,alta
+tesseract,plate_156.png,DL3CBE4725,,,0,10,1.0,1,52.975,0.095,IN,2,alta
+tesseract,plate_157.png,DL7CM8828,DL7CH88281,DL7CH88281\n,0,2,0.2222,0,56.777,0.066,IN,1,alta
+tesseract,plate_158.png,HR11L4402,SHRIIL4402,SHRIIL4402\n,0,3,0.3333,0,55.735,0.065,IN,1,alta
+tesseract,plate_159.png,DL1CAB0010,TLICABOO19,TLICABOO19\n,0,5,0.5,0,56.549,0.067,IN,1,media
+tesseract,plate_160.png,DL1ZA5981,,,0,9,1.0,1,53.475,0.076,IN,1,alta
+tesseract,plate_161.png,DL9CT4118,OLSCT,OLSCT\n,0,6,0.6667,0,55.817,0.074,IN,1,alta
+tesseract,plate_162.png,DL1RW1576,OLIRI576,OLIR\nI576\n,0,4,0.4444,0,59.34,0.246,IN,2,alta
+tesseract,plate_163.png,DL3CBD2524,DLSGRD2624,DLSGRD2624\n,0,4,0.4,0,57.599,0.06,IN,1,alta
+tesseract,plate_164.png,DL1PA1136,BLIPAUSS,BLIP\nAUSS\n,0,6,0.6667,0,59.694,0.135,IN,2,alta
+tesseract,plate_165.png,DL3SCW6192,,,0,10,1.0,1,55.24,0.071,IN,1,media
+tesseract,plate_166.png,DL5SAH9529,,,0,10,1.0,1,55.955,0.08,IN,2,media
+tesseract,plate_167.png,X892TP799,X892TPI92,X892TPI92\n,0,2,0.2222,0,57.581,0.071,RU,1,alta
+tesseract,plate_168.png,T941YA77,,,0,8,1.0,1,56.096,0.063,RU,1,alta
+tesseract,plate_169.png,HR26DG4444,,,0,10,1.0,1,58.302,0.053,IN,1,alta
+tesseract,plate_170.png,HR26EA7905,HR2GEA7905,HR2GEA7905\n,0,1,0.1,0,55.763,0.051,IN,1,alta
+tesseract,plate_171.png,HP31D7888,,,0,9,1.0,1,54.498,0.062,IN,1,alta
+tesseract,plate_172.png,HP31D7888,,,0,9,1.0,1,57.8,0.056,IN,1,alta
+tesseract,plate_173.png,HR55U8487,BE,BE\n,0,9,1.0,0,63.116,0.11,IN,2,media
+tesseract,plate_174.png,DL1LS9658,F3TOL1159658,F3T\nOL1159658\n,0,6,0.6667,0,67.097,0.053,IN,1,media
+unlimited-ocr,plate_000.png,Y018YP750,Y018YP750,"<|det|>title [138, 255, 882, 690]<|/det|>·y018yP 750.",1,0,0.0,0,598.585,1.654,RU,1,alta
+unlimited-ocr,plate_001.png,P900YH77,P900YHRUS77,"<|det|>title [138, 326, 854, 690]<|/det|>·P 900 yH\( _{RUS} \)77.",0,3,0.375,0,632.996,0.108,RU,1,alta
+unlimited-ocr,plate_002.png,WP54KKV,WD5JKV,"<|det|>title [38, 65, 960, 893]<|/det|>WD5JKV",0,3,0.4286,0,449.415,0.086,UK,1,alta
+unlimited-ocr,plate_003.png,YK60PKJ,YK60PKJ,"<|det|>title [30, 113, 960, 833]<|/det|>YK60 PKJ",1,0,0.0,0,457.356,0.069,UK,1,alta
+unlimited-ocr,plate_004.png,LX59VEP,,"<|det|>image [38, 114, 960, 860]<|/det|>",0,7,1.0,1,395.595,0.074,UK,1,alta
+unlimited-ocr,plate_005.png,LC59FEM,LC59FEM,"<|det|>title [117, 255, 862, 755]<|/det|>LC59 FEM",1,0,0.0,0,440.241,0.096,UK,1,alta
+unlimited-ocr,plate_006.png,NA54KGJ,NA54KG,"<|det|>title [184, 306, 830, 690]<|/det|>NA54 KG",0,1,0.1429,0,438.201,0.085,UK,1,alta
+unlimited-ocr,plate_007.png,AK64DMV,AK64DNY,"<|det|>title [155, 306, 787, 760]<|/det|>AK64DNY",0,2,0.2857,0,441.126,0.058,UK,1,alta
+unlimited-ocr,plate_008.png,GX15OGJ,GX150GJ,"<|det|>title [55, 306, 838, 760]<|/det|>[GX15 0GJ",0,1,0.1429,0,535.632,0.084,UK,1,alta
+unlimited-ocr,plate_009.png,P900YH77,P900YH77,"<|det|>title [38, 131, 960, 833]<|/det|>P900YH77",1,0,0.0,0,484.212,0.061,RU,1,alta
+unlimited-ocr,plate_010.png,Y018YP750,Y018YP750,"<|det|>title [184, 337, 855, 760]<|/det|>·y018yP 750.",1,0,0.0,0,530.432,0.076,RU,1,alta
+unlimited-ocr,plate_011.png,RJ19GB9320,GB9320,"<|det|>title [207, 387, 843, 790]<|/det|>GB9320",0,4,0.4,0,439.363,0.161,IN,2,alta
+unlimited-ocr,plate_012.png,UK08CA3705,UK08CA3705,"<|det|>title [234, 242, 765, 776]<|/det|>UK·08\nCA·3705",1,0,0.0,0,527.026,0.128,IN,2,alta
+unlimited-ocr,plate_013.png,RJ25GA0509,RJ25GA0509,"<|det|>title [368, 214, 690, 432]<|/det|>RJ25\n<|det|>title [247, 458, 755, 730]<|/det|>GA·0509",1,0,0.0,0,780.564,0.076,IN,2,alta
+unlimited-ocr,plate_014.png,AS01KC6058,,"<|det|>image [38, 143, 960, 920]<|/det|>",0,10,1.0,1,374.741,0.092,IN,2,alta
+unlimited-ocr,plate_015.png,AP102TC885,AP102TC885,"<|det|>title [193, 352, 838, 642]<|/det|>AP102TC/885",1,0,0.0,0,495.257,0.076,IN,1,alta
+unlimited-ocr,plate_016.png,DL1N7100,,"<|det|>image [38, 89, 960, 909]<|/det|>",0,8,1.0,1,386.504,0.089,IN,1,alta
+unlimited-ocr,plate_017.png,DL8CT3000,OL8CT3000,"<|det|>title [138, 222, 851, 755]<|/det|>OL8CT3000",0,1,0.1111,0,480.95,0.075,IN,1,alta
+unlimited-ocr,plate_018.png,GA01Z6970,,"<|det|>image [33, 95, 960, 948]<|/det|>",0,9,1.0,1,379.297,0.156,IN,2,alta
+unlimited-ocr,plate_019.png,WB390243,WB390243,"<|det|>title [269, 306, 823, 731]<|/det|>WB·39\n0243",1,0,0.0,0,507.773,0.141,IN,2,alta
+unlimited-ocr,plate_020.png,MH03BW3561,MANOVEN35,"<|det|>title [162, 337, 851, 690]<|/det|>MAN OVEN 35%",0,8,0.8,0,511.793,0.055,IN,1,media
+unlimited-ocr,plate_021.png,HR38V2023,HROV2U23,"<|det|>title [162, 255, 960, 833]<|/det|>HROV2U23",0,3,0.3333,0,502.985,0.066,IN,1,alta
+unlimited-ocr,plate_022.png,UP16AE5575,UP16AE5575,"<|det|>title [184, 255, 873, 713]<|/det|>UP16AE5575",1,0,0.0,0,492.335,0.049,IN,1,alta
+unlimited-ocr,plate_023.png,WB04C9149,MOU4C9149,"<|det|>title [38, 50, 960, 948]<|/det|>MOU4\nC9149",0,3,0.3333,0,526.656,0.147,IN,2,alta
+unlimited-ocr,plate_024.png,HR26DA0734,MR260A0734,"<|det|>title [62, 255, 960, 893]<|/det|>*MR260A0734",0,2,0.2,0,494.516,0.054,IN,1,media
+unlimited-ocr,plate_025.png,DL3CAZ5503,DL3CA25503,"<|det|>title [38, 214, 960, 833]<|/det|>DL3CA25503",0,1,0.1,0,470.171,0.05,IN,1,alta
+unlimited-ocr,plate_026.png,DL8CAE9134,OL8CAE9134,"<|det|>title [224, 306, 914, 660]<|/det|>-OL8CAE9134",0,1,0.1,0,505.004,0.053,IN,1,alta
+unlimited-ocr,plate_027.png,HR26DG7793,NOHR26DG7793,"<|det|>title [131, 337, 862, 690]<|/det|>NO HR26DG7793",0,2,0.2,0,487.834,0.068,IN,1,alta
+unlimited-ocr,plate_028.png,HR55AG7402,1ROSSAG402,"<|det|>text [113, 348, 843, 760]<|/det|>1-ROSSAG402",0,5,0.5,0,466.18,0.055,IN,1,media
+unlimited-ocr,plate_029.png,DL3CCS3624,OL3CCS3624,"<|det|>title [184, 330, 851, 690]<|/det|>OL3CCS3624",0,1,0.1,0,480.518,0.055,IN,1,alta
+unlimited-ocr,plate_030.png,HR26DV6946,,"<|det|>image [38, 48, 960, 948]<|/det|>",0,10,1.0,1,388.443,0.139,IN,2,alta
+unlimited-ocr,plate_031.png,HR26EA7905,HR26EA7905,"<|det|>title [131, 255, 890, 760]<|/det|>•HR26EA7905",1,0,0.0,0,491.259,0.051,IN,1,alta
+unlimited-ocr,plate_032.png,HR26DV6946,6946,"<|det|>title [162, 150, 805, 701]<|/det|>-मार्गव-\n6946",0,6,0.6,0,524.711,0.106,IN,2,alta
+unlimited-ocr,plate_033.png,HP31D7888,,"<|det|>image [126, 387, 904, 833]<|/det|>",0,9,1.0,1,386.443,0.063,IN,1,alta
+unlimited-ocr,plate_034.png,O327HE799,0327HE799HUS2018102010000100,"<|det|>title [162, 255, 854, 660]<|/det|>0327HE|799\nHUS\n<|det|>text [184, 667, 856, 760]<|/det|>2018.10.20 10:00 01:00",0,20,2.2222,0,1051.234,0.067,RU,1,alta
+unlimited-ocr,plate_035.png,B521EH777,B521EH777RISEEAC3100,"<|det|>title [138, 255, 855, 660]<|/det|>B521EH 777. RISE\n<|det|>text [138, 660, 855, 799]<|/det|>E-AC-3 100%",0,11,1.2222,0,925.796,0.066,RU,1,alta
+unlimited-ocr,plate_036.png,C605HC197,C605HC197,"<|det|>title [126, 138, 870, 660]<|/det|>C605HC 197.",1,0,0.0,0,479.415,0.06,RU,1,alta
+unlimited-ocr,plate_037.png,A527YB199,A527YB199,"<|det|>title [176, 255, 831, 660]<|/det|>A527YB 199.",1,0,0.0,0,485.195,0.075,RU,1,alta
+unlimited-ocr,plate_038.png,P730XT750,P730XT750,"<|det|>title [117, 255, 835, 713]<|/det|>P730XT750",1,0,0.0,0,448.377,0.058,RU,1,alta
+unlimited-ocr,plate_039.png,C605HC197,C605HC197RJSE,"<|det|>title [138, 214, 884, 760]<|/det|>C605HC 197. RJSE",0,4,0.4444,0,682.39,0.075,RU,1,alta
+unlimited-ocr,plate_040.png,P730XT750,P730XT750,"<|det|>title [97, 276, 865, 701]<|/det|>·P730XT750",1,0,0.0,0,466.056,0.077,RU,1,alta
+unlimited-ocr,plate_041.png,A527YB199,A527YB199,"<|det|>title [117, 222, 823, 713]<|/det|>•A527YB 199.",1,0,0.0,0,487.052,0.07,RU,1,alta
+unlimited-ocr,plate_042.png,YG19YRU,UNREADABLE,"<|det|>title [131, 255, 821, 760]<|/det|>[Unreadable]",0,10,1.4286,0,466.053,0.054,UK,1,alta
+unlimited-ocr,plate_043.png,YK60PKJ,YK50PKJ,"<|det|>title [38, 148, 960, 833]<|/det|>YK50 PKJ",0,1,0.1429,0,468.061,0.049,UK,1,alta
+unlimited-ocr,plate_044.png,BJ20ATN,BJ20ATN,"<|det|>title [207, 286, 950, 755]<|/det|>BJ20,ATN",1,0,0.0,0,464.915,0.137,UK,1,alta
+unlimited-ocr,plate_045.png,LX59VEP,,"<|det|>image [38, 95, 960, 899]<|/det|>",0,7,1.0,1,381.132,0.068,UK,1,alta
+unlimited-ocr,plate_046.png,LC59FEM,LC59FEM1,"<|det|>title [138, 255, 890, 760]<|/det|>LC59 FEM\( _{1} \)",0,1,0.1429,0,520.333,0.061,UK,1,alta
+unlimited-ocr,plate_047.png,NJ66XYT,,"<|det|>image [33, 113, 699, 893]<|/det|>",0,7,1.0,1,381.916,0.098,UK,1,alta
+unlimited-ocr,plate_048.png,NJ66XYT,11,"<|det|>image [33, 188, 582, 833]<|/det|>\n<|det|>text [838, 590, 879, 690]<|/det|>11",0,7,1.0,0,676.364,0.106,UK,1,alta
+unlimited-ocr,plate_049.png,NJ66XYT,,"<|det|>image [33, 184, 902, 893]<|/det|>",0,7,1.0,1,385.447,0.07,UK,1,alta
+unlimited-ocr,plate_050.png,NA54KGJ,NAS4KGJ,"<|det|>title [138, 306, 812, 690]<|/det|>NAS4KGJ",0,1,0.1429,0,460.092,0.081,UK,1,alta
+unlimited-ocr,plate_051.png,AK64DMV,AK64DIV,"<|det|>title [138, 255, 812, 760]<|/det|>AK64DIV",0,1,0.1429,0,453.296,0.056,UK,1,alta
+unlimited-ocr,plate_052.png,BG65USJ,BG65USJ,"<|det|>title [138, 255, 851, 690]<|/det|>BG65 USJ",1,0,0.0,0,448.919,0.086,UK,1,alta
+unlimited-ocr,plate_053.png,BG65USJ,BG6SUSJ,"<|det|>title [162, 294, 843, 660]<|/det|>BG6S USJ",0,1,0.1429,0,467.432,0.092,UK,1,alta
+unlimited-ocr,plate_054.png,AV08HVF,DVOBHYA,"<|det|>title [72, 188, 960, 810]<|/det|>-DVOBHYA",0,5,0.7143,0,467.961,0.079,UK,1,alta
+unlimited-ocr,plate_055.png,AV08HVF,AVBHYF,"<|det|>title [48, 155, 960, 760]<|/det|>[AV]B HYF.",0,3,0.4286,0,501.182,0.064,UK,1,alta
+unlimited-ocr,plate_056.png,EY61NBG,EYGINBG,"<|det|>title [184, 255, 823, 713]<|/det|>EYGINBG",0,2,0.2857,0,460.807,0.071,UK,1,alta
+unlimited-ocr,plate_057.png,EY61NBG,EY6INBG,"<|det|>title [184, 306, 812, 690]<|/det|>EY6INBG",0,1,0.1429,0,455.623,0.076,UK,1,alta
+unlimited-ocr,plate_058.png,EY61NBG,EYGINBG,"<|det|>title [155, 337, 806, 723]<|/det|>EYGINBG",0,2,0.2857,0,435.247,0.08,UK,1,alta
+unlimited-ocr,plate_059.png,FJ14ZHY,FJ14ZHY,"<|det|>title [138, 184, 793, 684]<|/det|>[FJ14 ZHY]",1,0,0.0,0,507.76,0.085,UK,1,alta
+unlimited-ocr,plate_060.png,WR02FKD,ROZKO,"<|det|>title [62, 222, 920, 776]<|/det|>【ROZKO】",0,5,0.7143,0,471.815,0.068,UK,1,media
+unlimited-ocr,plate_061.png,FJ14ZHY,FJ14ZHY,"<|det|>title [207, 306, 804, 713]<|/det|>FJ14 ZHY",1,0,0.0,0,468.045,0.082,UK,1,alta
+unlimited-ocr,plate_062.png,WR02FKD,WORDFAD,"<|det|>title [149, 330, 825, 684]<|/det|>WORD FAD",0,4,0.5714,0,437.257,0.086,UK,1,media
+unlimited-ocr,plate_063.png,WR02FKD,MF02FKO,"<|det|>title [187, 337, 823, 723]<|/det|>MF02FKO",0,3,0.4286,0,463.964,0.092,UK,1,media
+unlimited-ocr,plate_064.png,KH05ZZK,KNOZZK,"<|det|>title [176, 306, 812, 690]<|/det|>KNOZZK",0,3,0.4286,0,454.377,0.076,UK,1,media
+unlimited-ocr,plate_065.png,KH05ZZK,XH0527K,"<|det|>title [73, 184, 865, 776]<|/det|>- XH0527K",0,3,0.4286,0,488.334,0.065,UK,1,media
+unlimited-ocr,plate_066.png,AP05JEO,AP05JEO,"<|det|>title [38, 255, 960, 833]<|/det|>AP05 JEO",1,0,0.0,0,445.284,0.068,UK,1,alta
+unlimited-ocr,plate_067.png,KH05ZZK,N0Z1,"<|det|>title [111, 188, 862, 776]<|/det|>【N0Z1】",0,5,0.7143,0,485.455,0.06,UK,1,media
+unlimited-ocr,plate_068.png,AP05JEO,AP05J60,"<|det|>title [38, 255, 960, 833]<|/det|>AP05 J60",0,2,0.2857,0,442.271,0.062,UK,1,alta
+unlimited-ocr,plate_069.png,AP05JEO,AP05JEO,"<|det|>title [138, 306, 823, 760]<|/det|>AP05JEO",1,0,0.0,0,453.488,0.095,UK,1,alta
+unlimited-ocr,plate_070.png,GX15OGJ,GX150G,"<|det|>title [38, 155, 960, 893]<|/det|>[GX15 0G]",0,2,0.2857,0,516.659,0.065,UK,1,alta
+unlimited-ocr,plate_071.png,GX15OGJ,GX150GJ,"<|det|>title [38, 255, 999, 660]<|/det|>GX150GJ",0,1,0.1429,0,458.086,0.095,UK,1,alta
+unlimited-ocr,plate_072.png,MW51VSU,MISVSU,"<|det|>title [50, 138, 960, 833]<|/det|>MISVSU",0,3,0.4286,0,454.545,0.063,UK,1,media
+unlimited-ocr,plate_073.png,MW51VSU,AVSIVSU,"<|det|>title [138, 306, 824, 786]<|/det|>[AVSI VSU]",0,4,0.5714,0,487.194,0.064,UK,1,media
+unlimited-ocr,plate_074.png,SN61BJV,MEBJY,"<|det|>title [87, 348, 765, 755]<|/det|>:ME: BJY",0,5,0.7143,0,456.255,0.055,UK,1,alta
+unlimited-ocr,plate_075.png,FUY68U,FUY68U,"<|det|>title [138, 306, 777, 760]<|/det|>.FUY68U",1,0,0.0,0,471.841,0.072,otro,1,alta
+unlimited-ocr,plate_076.png,OR09G7541,OR09G7541,"<|det|>title [162, 400, 827, 843]<|/det|>OR09G\n7541",1,0,0.0,0,486.358,0.226,IN,2,alta
+unlimited-ocr,plate_077.png,HR743571,,"<|det|>image [38, 138, 960, 873]<|/det|>",0,8,1.0,1,386.32,0.071,IN,1,alta
+unlimited-ocr,plate_078.png,RJ14GJ4976,RJ14GJ4976,"<|det|>title [138, 188, 854, 786]<|/det|>RJ14\nGJ4976",1,0,0.0,0,510.875,0.091,IN,2,alta
+unlimited-ocr,plate_079.png,AP26TA5005,AP26PSRTA5005,"<|det|>title [162, 214, 907, 755]<|/det|>AP26\nP.S.R\nTA5005",0,3,0.3,0,562.276,0.193,IN,2,alta
+unlimited-ocr,plate_080.png,AP21TT9279,2013119279,"<|det|>title [33, 65, 960, 833]<|/det|>第2013年\n119279",0,6,0.6,0,515.455,0.125,IN,2,alta
+unlimited-ocr,plate_081.png,AP02W2516,AP02W2516,"<|det|>title [184, 188, 849, 360]<|/det|>AP02\n<|det|>title [214, 555, 843, 855]<|/det|>w 2516",1,0,0.0,0,762.066,0.081,IN,2,alta
+unlimited-ocr,plate_082.png,AP21X0460,X0460,"<|det|>title [62, 75, 960, 863]<|/det|>X0460",0,4,0.4444,0,437.952,0.105,IN,2,alta
+unlimited-ocr,plate_083.png,HR63C2419,HR632419H,"<|det|>title [30, 95, 968, 873]<|/det|>[HR63]\n2419H",0,2,0.2222,0,506.806,0.321,IN,2,alta
+unlimited-ocr,plate_084.png,MH04FH7654,MH04FH7654,"<|det|>text [176, 255, 862, 755]<|/det|>MH. 04.FH. 7654",1,0,0.0,0,551.053,0.093,IN,1,alta
+unlimited-ocr,plate_085.png,MH04FB8220,,"<|det|>image [33, 0, 999, 999]<|/det|>",0,10,1.0,1,386.343,0.127,IN,1,alta
+unlimited-ocr,plate_086.png,MH06AU6836,,"<|det|>image [38, 82, 960, 909]<|/det|>",0,10,1.0,1,395.236,0.08,IN,1,alta
+unlimited-ocr,plate_087.png,HR26DK8593,HR260K8593,"<|det|>title [155, 306, 866, 713]<|/det|>HR260K8593",0,1,0.1,0,472.326,0.056,IN,1,alta
+unlimited-ocr,plate_088.png,MH14JA9346,,"<|det|>image [38, 131, 964, 899]<|/det|>",0,10,1.0,1,385.318,0.069,IN,1,alta
+unlimited-ocr,plate_089.png,7254TAU,7254TAU,"<|det|>title [48, 176, 960, 760]<|/det|>7254 TAU",1,0,0.0,0,449.498,0.055,otro,1,alta
+unlimited-ocr,plate_090.png,KL15A731,KL15A731,"<|det|>title [184, 428, 823, 690]<|/det|>KL 15 A 731",1,0,0.0,0,488.99,0.105,IN,1,alta
+unlimited-ocr,plate_091.png,AS03M9149,AS03H9149,"<|det|>title [218, 306, 865, 713]<|/det|>AS03H9149",0,1,0.1111,0,478.181,0.071,IN,1,alta
+unlimited-ocr,plate_092.png,WB04E7228,VB04E7228,"<|det|>title [138, 255, 854, 701]<|/det|>VB04E7228",0,1,0.1111,0,474.253,0.104,IN,1,alta
+unlimited-ocr,plate_093.png,TN21N1209,TN21N1209,"<|det|>title [255, 214, 799, 460]<|/det|>TN.21\n<|det|>title [175, 567, 960, 810]<|/det|>N.1209!",1,0,0.0,0,809.536,0.188,IN,2,alta
+unlimited-ocr,plate_094.png,RJ14PA7033,RJ14PA7033,"<|det|>title [138, 255, 851, 630]<|/det|>RJ14 PA7033",1,0,0.0,0,453.456,0.078,IN,1,alta
+unlimited-ocr,plate_095.png,RJ14PA6060,JHAPA6060,"<|det|>title [138, 330, 873, 660]<|/det|>JHA PA 6060",0,3,0.3,0,489.588,0.055,IN,1,alta
+unlimited-ocr,plate_096.png,RJ149C401,RJ149C401,"<|det|>title [227, 337, 843, 660]<|/det|>RJ14 9C 401",1,0,0.0,0,510.972,0.054,IN,1,alta
+unlimited-ocr,plate_097.png,AP11Z2053,BEGINARRAYLTEXTAP12THEREFORE053ENDARRAY,"<|det|>equation [28, 155, 960, 948]<|/det|>\[\n\begin{array}{l} \text {AP12} \\ \therefore 0. 5 3 ] \end{array}\n\]",0,33,3.6667,0,876.759,0.137,IN,2,alta
+unlimited-ocr,plate_098.png,PB65AR0294,PB65AR0294,"<|det|>title [242, 306, 838, 701]<|/det|>PB 65 AR 0294",1,0,0.0,0,504.698,0.08,IN,1,alta
+unlimited-ocr,plate_099.png,DL6SF1284,,"<|det|>image [33, 38, 960, 956]<|/det|>",0,9,1.0,1,390.232,0.174,IN,2,alta
+unlimited-ocr,plate_100.png,DL6SAB2153,,"<|det|>image [38, 95, 962, 909]<|/det|>",0,10,1.0,1,396.96,0.07,IN,1,alta
+unlimited-ocr,plate_101.png,AP11Z2061,AP1IZ2061,"<|det|>title [48, 75, 960, 936]<|/det|>AP1IZ\n2061",0,1,0.1111,0,474.011,0.086,IN,2,alta
+unlimited-ocr,plate_102.png,BK63XPV,BK63XPV,"<|det|>title [38, 262, 873, 786]<|/det|>BK63 XPV",1,0,0.0,0,464.431,0.059,UK,1,alta
+unlimited-ocr,plate_103.png,PB30K0234,P830K0234,"<|det|>title [176, 294, 866, 701]<|/det|>P830K0234",0,1,0.1111,0,503.02,0.101,IN,2,alta
+unlimited-ocr,plate_104.png,BK63XPV,BK63XPV,"<|det|>title [55, 184, 854, 833]<|/det|>【BK63 XPV",1,0,0.0,0,532.272,0.073,UK,1,alta
+unlimited-ocr,plate_105.png,AP11Z4234,AP1124234,"<|det|>title [138, 214, 830, 755]<|/det|>AP112\n4234",0,1,0.1111,0,479.746,0.124,IN,2,alta
+unlimited-ocr,plate_106.png,A330TM750,CDOTA330MATHRMTM750,"<|det|>equation [117, 255, 851, 660]<|/det|>\[\n\cdot A 3 3 0 \mathrm{TM} 7 5 0\n\]",0,10,1.1111,0,767.319,0.09,RU,1,alta
+unlimited-ocr,plate_107.png,E500AE21,E500AE21,"<|det|>title [176, 337, 812, 713]<|/det|>E500 AE\( ^{21.} \)",1,0,0.0,0,553.491,0.069,RU,1,alta
+unlimited-ocr,plate_108.png,PK74077,PK74077RU5,"<|det|>title [155, 306, 843, 660]<|/det|>·PK 740|77. RU5",0,3,0.4286,0,540.358,0.066,RU,1,alta
+unlimited-ocr,plate_109.png,PK74077,PK74077,"<|det|>title [138, 176, 817, 660]<|/det|>·PK 740 [77]",1,0,0.0,0,508.975,0.054,RU,1,alta
+unlimited-ocr,plate_110.png,H850PO799,H850P0799,"<|det|>title [138, 306, 855, 760]<|/det|>·H850P0 799.",0,1,0.1111,0,514.99,0.06,RU,1,alta
+unlimited-ocr,plate_111.png,X892TP799,X892TP799,"<|det|>title [176, 306, 831, 690]<|/det|>·x892TP|799.",1,0,0.0,0,507.654,0.073,RU,1,alta
+unlimited-ocr,plate_112.png,Y099AO799,MATHRMY099MATHRMAOMATHRMRJS799,"<|det|>equation [193, 188, 830, 660]<|/det|>\[\n\mathrm{y} 0 9 9 \mathrm{AO} _ {\mathrm{RJS}} ^ {7 9 9}\n\]",0,21,2.3333,0,915.654,0.056,RU,1,alta
+unlimited-ocr,plate_113.png,HR30K2344,,"<|det|>image [48, 108, 873, 833]<|/det|>",0,9,1.0,1,386.598,0.054,IN,1,alta
+unlimited-ocr,plate_114.png,HR26AP6365,,"<|det|>image [33, 214, 960, 833]<|/det|>",0,10,1.0,1,388.608,0.054,IN,1,media
+unlimited-ocr,plate_115.png,HR26EJ8386,MAJEJE,"<|det|>title [182, 362, 843, 690]<|/det|>MAJEJE",0,8,0.8,0,432.151,0.077,IN,1,media
+unlimited-ocr,plate_116.png,HR51BH5209,HR51BHS209,"<|det|>title [193, 286, 862, 660]<|/det|>HR51BHS209",0,1,0.1,0,456.966,0.055,IN,1,alta
+unlimited-ocr,plate_117.png,HR30K2344,HR30K2344,"<|det|>title [117, 255, 873, 810]<|/det|>HR30K 2344",1,0,0.0,0,484.505,0.074,IN,1,alta
+unlimited-ocr,plate_118.png,HR26DG7793,HR26DG7793,"<|det|>title [193, 286, 843, 690]<|/det|>HR26DG7793",1,0,0.0,0,472.04,0.067,IN,1,alta
+unlimited-ocr,plate_119.png,HR26CJ0999,,"<|det|>image [33, 131, 960, 833]<|/det|>",0,10,1.0,1,381.123,0.059,IN,1,media
+unlimited-ocr,plate_120.png,HR26CJ0999,,"<|det|>image [38, 108, 960, 909]<|/det|>",0,10,1.0,1,381.637,0.089,IN,1,media
+unlimited-ocr,plate_121.png,HR30K2344,HR30K2344,"<|det|>title [117, 188, 873, 863]<|/det|>HR30K 2344",1,0,0.0,0,490.732,0.057,IN,1,alta
+unlimited-ocr,plate_122.png,HR26DG7793,HR26DG7793,"<|det|>title [138, 337, 854, 690]<|/det|>HR26DG7793",1,0,0.0,0,469.395,0.092,IN,1,alta
+unlimited-ocr,plate_123.png,DL7SCK4296,OLYSCK29,"<|det|>title [138, 214, 801, 755]<|/det|>OLYSC\nK∠29δ",0,4,0.4,0,521.116,0.112,IN,2,alta
+unlimited-ocr,plate_124.png,HR26ED2186,HR26E02186,"<|det|>title [176, 276, 843, 755]<|/det|>*HR26E02186",0,1,0.1,0,472.651,0.094,IN,2,alta
+unlimited-ocr,plate_125.png,UP16AN1098,UP16AN109A,"<|det|>title [176, 337, 851, 660]<|/det|>* UP 16AN109A",0,1,0.1,0,506.272,0.055,IN,1,alta
+unlimited-ocr,plate_126.png,UP16AN1098,UP16AN109A,"<|det|>title [138, 306, 873, 690]<|/det|>UP 16AN109A",0,1,0.1,0,490.025,0.05,IN,1,alta
+unlimited-ocr,plate_127.png,HR989995,HR989995,"<|det|>title [162, 352, 838, 713]<|/det|>• HR 98 9995",1,0,0.0,0,492.507,0.054,IN,1,media
+unlimited-ocr,plate_128.png,DL7SCK4296,OLSCKL296,"<|det|>title [255, 290, 755, 717]<|/det|>OL/SC\nKL296",0,3,0.3,0,477.473,0.116,IN,2,alta
+unlimited-ocr,plate_129.png,HR55AG7402,MSSAG402,"<|det|>text [162, 432, 862, 760]<|/det|>·MSSAG402",0,5,0.5,0,459.871,0.062,IN,1,media
+unlimited-ocr,plate_130.png,HR26DF9390,HR260F9390,"<|det|>title [48, 306, 851, 713]<|/det|>..HR260F9390",0,1,0.1,0,471.032,0.068,IN,1,alta
+unlimited-ocr,plate_131.png,HR26DF9390,M226DEGY,"<|det|>title [207, 306, 865, 660]<|/det|>M226DEGY",0,7,0.7,0,457.212,0.062,IN,1,alta
+unlimited-ocr,plate_132.png,HR26DF9390,BOXEDNGEQ2N15N27N1,"<|det|>equation [211, 255, 843, 660]<|/det|>\[\n\boxed {n \geq 2 ^ {n - 1} 5 ^ {n - 2} 7 ^ {n - 1}}\n\]",0,17,1.7,0,996.106,0.059,IN,1,media
+unlimited-ocr,plate_133.png,DL9CAG6084,,"<|det|>image [38, 255, 960, 833]<|/det|>",0,10,1.0,1,368.596,0.077,IN,1,media
+unlimited-ocr,plate_134.png,HR26BW3828,M6E782,"<|det|>text [214, 382, 873, 660]<|/det|>M:6E782",0,7,0.7,0,464.909,0.074,IN,1,alta
+unlimited-ocr,plate_135.png,DL9CAS6906,OL9CA56906,"<|det|>title [184, 306, 847, 642]<|/det|>OL9CA56906",0,2,0.2,0,456.224,0.066,IN,1,alta
+unlimited-ocr,plate_136.png,HR26BW3828,MR6E3928,"<|det|>title [207, 362, 856, 660]<|/det|>MR:6E#3928",0,5,0.5,0,488.372,0.118,IN,1,alta
+unlimited-ocr,plate_137.png,DL3CCS3624,DL3CCS3624,"<|det|>title [184, 306, 873, 660]<|/det|>DL3CCS3624",1,0,0.0,0,472.447,0.062,IN,1,alta
+unlimited-ocr,plate_138.png,HR26EA7905,HR26EA7905,"<|det|>title [138, 255, 862, 660]<|/det|>HR26EA7905",1,0,0.0,0,452.18,0.065,IN,1,alta
+unlimited-ocr,plate_139.png,HR58A0826,HR8A0826,"<|det|>title [131, 330, 843, 790]<|/det|>HR-8A.0826",0,1,0.1111,0,491.046,0.063,IN,1,alta
+unlimited-ocr,plate_140.png,HR55U8487,,"<|det|>image [38, 48, 960, 960]<|/det|>",0,9,1.0,1,377.291,0.129,IN,2,media
+unlimited-ocr,plate_141.png,WP54KKV,TEXTWP54KKV,"<|det|>equation [38, 113, 960, 893]<|/det|>\[\n\text { WP54KKV }\n\]",0,4,0.5714,0,542.119,0.063,UK,1,alta
+unlimited-ocr,plate_142.png,BJ20ATN,BJ2QATN,"<|det|>title [138, 255, 812, 713]<|/det|>BJ2QATN",0,1,0.1429,0,455.39,0.069,UK,1,alta
+unlimited-ocr,plate_143.png,BJ20ATN,BJ2QATN,"<|det|>title [162, 294, 843, 760]<|/det|>BJ2QATN",0,1,0.1429,0,456.357,0.091,UK,1,alta
+unlimited-ocr,plate_144.png,LC59FEM,LC59FEM,"<|det|>title [138, 276, 873, 760]<|/det|>LC59 FEM",1,0,0.0,0,424.778,0.067,UK,1,alta
+unlimited-ocr,plate_145.png,BG65USJ,BG65USJ,"<|det|>title [97, 286, 855, 713]<|/det|>_BG65 US.J",1,0,0.0,0,464.973,0.077,UK,1,alta
+unlimited-ocr,plate_146.png,NA54KGJ,MA54KGJ,"<|det|>title [184, 294, 830, 621]<|/det|>MA54 KGJ",0,1,0.1429,0,450.842,0.103,UK,1,alta
+unlimited-ocr,plate_147.png,AV08HVF,AVO8HVF,"<|det|>title [37, 255, 960, 833]<|/det|>[AVO8 HVF]",0,1,0.1429,0,490.232,0.084,UK,1,alta
+unlimited-ocr,plate_148.png,NA13NRU,RNA13NRU,"<|det|>title [38, 242, 821, 690]<|/det|>| RNA13 NRU",0,1,0.1429,0,472.285,0.076,UK,1,alta
+unlimited-ocr,plate_149.png,MW51VSU,HUSIYSU,"<|det|>title [155, 255, 787, 660]<|/det|>HUSI YSU",0,5,0.7143,0,456.681,0.068,UK,1,media
+unlimited-ocr,plate_150.png,SN61BJV,SNE,"<|det|>title [73, 276, 792, 755]<|/det|>[SNE]",0,5,0.7143,0,436.466,0.064,UK,1,alta
+unlimited-ocr,plate_151.png,AP16TD4439,APP16104439,"<|det|>title [37, 178, 960, 948]<|/det|>APP16\n104439",0,3,0.3,0,458.174,0.142,IN,2,alta
+unlimited-ocr,plate_152.png,PB12E9658,,"<|det|>image [33, 28, 962, 948]<|/det|>",0,9,1.0,1,374.295,0.175,IN,2,alta
+unlimited-ocr,plate_153.png,KA02EV8795,KAO2EV8795,"<|det|>title [306, 279, 739, 432]<|/det|>KA·O2\n<|det|>title [227, 532, 817, 740]<|/det|>EV-8795",0,1,0.1,0,775.378,0.087,IN,2,alta
+unlimited-ocr,plate_154.png,KA03B2364,KA03B2364,"<|det|>title [162, 222, 777, 810]<|/det|>KA-03\nB2364",1,0,0.0,0,492.949,0.121,IN,2,alta
+unlimited-ocr,plate_155.png,HR26DX4821,HR26DX4821,"<|det|>image [443, 75, 588, 255]<|/det|>\n<|det|>text [172, 352, 843, 660]<|/det|>HR26DX4821",1,0,0.0,0,726.59,0.102,IN,1,alta
+unlimited-ocr,plate_156.png,DL3CBE4725,DL3CBF4725,"<|det|>title [87, 488, 745, 760]<|/det|>DL3C BF 4725",0,1,0.1,0,486.489,0.095,IN,2,alta
+unlimited-ocr,plate_157.png,DL7CM8828,DL7CH8828,"<|det|>title [138, 387, 866, 723]<|/det|>~DL7CH8828",0,1,0.1111,0,473.057,0.066,IN,1,alta
+unlimited-ocr,plate_158.png,HR11L4402,HR1114402,"<|det|>title [138, 337, 862, 760]<|/det|>HR111 4402",0,1,0.1111,0,456.813,0.065,IN,1,alta
+unlimited-ocr,plate_159.png,DL1CAB0010,3L1C18010,"<|det|>title [264, 362, 840, 600]<|/det|>-3L1C18010",0,4,0.4,0,501.886,0.067,IN,1,media
+unlimited-ocr,plate_160.png,DL1ZA5981,,"<|det|>image [38, 114, 960, 899]<|/det|>",0,9,1.0,1,370.425,0.076,IN,1,alta
+unlimited-ocr,plate_161.png,DL9CT4118,DL9CT4118,"<|det|>text [93, 432, 720, 684]<|/det|>DL·9C T 41·18",1,0,0.0,0,529.507,0.074,IN,1,alta
+unlimited-ocr,plate_162.png,DL1RW1576,,"<|det|>image [37, 48, 144, 110]<|/det|>\n<|det|>image [298, 348, 893, 684]<|/det|>\n<|det|>image [37, 728, 960, 970]<|/det|>",0,9,1.0,1,922.435,0.246,IN,2,alta
+unlimited-ocr,plate_163.png,DL3CBD2524,DL3CB02524,"<|det|>title [138, 255, 862, 786]<|/det|>DL3CB0 2524",0,1,0.1,0,529.359,0.06,IN,1,alta
+unlimited-ocr,plate_164.png,DL1PA1136,DL1PA1136,"<|det|>title [152, 188, 843, 760]<|/det|>DL1p\nA.1136.",1,0,0.0,0,535.507,0.135,IN,2,alta
+unlimited-ocr,plate_165.png,DL3SCW6192,,"<|det|>image [38, 82, 960, 916]<|/det|>",0,10,1.0,1,385.064,0.071,IN,1,media
+unlimited-ocr,plate_166.png,DL5SAH9529,,"<|det|>image [38, 65, 960, 936]<|/det|>",0,10,1.0,1,371.088,0.08,IN,2,media
+unlimited-ocr,plate_167.png,X892TP799,X892TP799,"<|det|>title [207, 255, 884, 616]<|/det|>·x892TP|799.",1,0,0.0,0,505.051,0.071,RU,1,alta
+unlimited-ocr,plate_168.png,T941YA77,MATHRMT941YAFRAC772,"<|det|>equation [155, 176, 812, 660]<|/det|>\[\n\mathrm{T941YA} \frac {7 7}{2}\n\]",0,11,1.375,0,658.961,0.063,RU,1,alta
+unlimited-ocr,plate_169.png,HR26DG4444,,"<|det|>image [38, 113, 960, 833]<|/det|>",0,10,1.0,1,369.099,0.053,IN,1,alta
+unlimited-ocr,plate_170.png,HR26EA7905,HR26EA7905,"<|det|>title [48, 155, 884, 833]<|/det|>HR26EA7905",1,0,0.0,0,469.895,0.051,IN,1,alta
+unlimited-ocr,plate_171.png,HP31D7888,CHP310188,"<|det|>title [131, 330, 884, 760]<|/det|>CHP310/188",0,4,0.4444,0,462.237,0.062,IN,1,alta
+unlimited-ocr,plate_172.png,HP31D7888,MPJN,"<|det|>title [155, 255, 855, 833]<|/det|>MPJN",0,8,0.8889,0,437.172,0.056,IN,1,alta
+unlimited-ocr,plate_173.png,HR55U8487,,"<|det|>image [38, 48, 960, 948]<|/det|>",0,9,1.0,1,382.573,0.11,IN,2,media
+unlimited-ocr,plate_174.png,DL1LS9658,NONTEXTDL1159650,"<|det|>title [62, 113, 964, 360]<|/det|>[Non-Text]\n<|det|>title [184, 415, 854, 790]<|/det|>DL 115 9650",0,10,1.1111,0,818.432,0.053,IN,1,media

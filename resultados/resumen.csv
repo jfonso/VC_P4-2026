@@ -1,0 +1,7 @@
+modelo,subconjunto,n_imagenes,exact_match,ic95_exact_match,cer_global,cer_medio,salidas_vacias,t_media_ms,t_mediana_ms,t_p95_ms,t_std_ms,t_min_ms,t_max_ms,imagenes_por_s,t_carga_modelo_s,mem_gpu_pico_mb
+tesseract,todas,175,0.0514,0.0327,0.6305,0.6359,0.3314,56.79,56.24,62.63,3.13,52.04,68.91,17.61,0.0,
+tesseract,quality=alta,149,0.0537,0.0362,0.6171,0.6237,0.3154,56.72,56.24,62.39,3.05,52.08,68.91,17.63,0.0,
+tesseract,quality=media,26,0.0385,0.0739,0.7061,0.7057,0.4231,57.22,56.3,63.02,3.5,52.04,67.1,17.48,0.0,
+unlimited-ocr,todas,175,0.3029,0.0681,0.4177,0.412,0.16,498.47,472.33,776.93,117.49,368.6,1051.23,2.01,5.98,6929.5
+unlimited-ocr,quality=alta,149,0.349,0.0765,0.358,0.3563,0.1342,502.17,474.01,772.15,113.85,369.1,1051.23,1.99,5.98,6929.5
+unlimited-ocr,quality=media,26,0.0385,0.0739,0.7544,0.7312,0.3077,477.27,458.28,741.77,134.56,368.6,996.11,2.1,5.98,6929.5
